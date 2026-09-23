@@ -1,0 +1,10 @@
+stm32f407_lvgl\lv_printf.o: ..\GUI\LVGL_API\src\misc\lv_printf.c
+stm32f407_lvgl\lv_printf.o: ..\GUI\LVGL_API\src\misc\lv_printf.h
+stm32f407_lvgl\lv_printf.o: ..\GUI\LVGL_API\src\misc\../lv_conf_internal.h
+stm32f407_lvgl\lv_printf.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f407_lvgl\lv_printf.o: ..\GUI\LVGL_API\src\misc\../lv_conf_kconfig.h
+stm32f407_lvgl\lv_printf.o: ..\GUI\LVGL_API\src\misc\../../lv_conf.h
+stm32f407_lvgl\lv_printf.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stdarg.h
+stm32f407_lvgl\lv_printf.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f407_lvgl\lv_printf.o: ..\GUI\LVGL_API\src\misc\lv_types.h
+stm32f407_lvgl\lv_printf.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stdbool.h
