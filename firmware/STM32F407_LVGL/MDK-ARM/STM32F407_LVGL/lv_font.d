@@ -1,0 +1,16 @@
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\lv_font.c
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\lv_font.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\../lv_conf_internal.h
+stm32f407_lvgl\lv_font.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\../lv_conf_kconfig.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\../../lv_conf.h
+stm32f407_lvgl\lv_font.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f407_lvgl\lv_font.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stdbool.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\lv_symbol_def.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\../misc/lv_area.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\../misc/lv_utils.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\../misc/lv_log.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\../misc/lv_types.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\../misc/lv_assert.h
+stm32f407_lvgl\lv_font.o: ..\GUI\LVGL_API\src\font\../misc/lv_mem.h
+stm32f407_lvgl\lv_font.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\string.h
