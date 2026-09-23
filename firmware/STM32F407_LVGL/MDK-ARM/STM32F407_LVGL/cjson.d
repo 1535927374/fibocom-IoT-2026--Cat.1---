@@ -1,0 +1,10 @@
+stm32f407_lvgl\cjson.o: ..\Middlewares\cJSON\cJSON.c
+stm32f407_lvgl\cjson.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\string.h
+stm32f407_lvgl\cjson.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stdio.h
+stm32f407_lvgl\cjson.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\math.h
+stm32f407_lvgl\cjson.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32f407_lvgl\cjson.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\limits.h
+stm32f407_lvgl\cjson.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\ctype.h
+stm32f407_lvgl\cjson.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\float.h
+stm32f407_lvgl\cjson.o: ..\Middlewares\cJSON\cJSON.h
+stm32f407_lvgl\cjson.o: D:\stm32tool\ARM\ARMCC\Bin\..\include\stddef.h
